@@ -45,9 +45,9 @@
 ###
 
 <p align="left">I’m constantly refining my skills through specialized certifications:</p>
-  - Git & Python: Intermediate certifications via DataCamp.
-  - Modern Web Dev: Participated in the GDGOC PLM Web Development Study Jam.
-  - AI & Engineering: Exploring the intersection of AI in engineering workflows through the ICpEP Webinar Series.
+- Git & Python: Intermediate certifications via DataCamp.
+- Modern Web Dev: Participated in the GDGOC PLM Web Development Study Jam.
+- AI & Engineering: Exploring the intersection of AI in engineering workflows through the ICpEP Webinar Series.
 
 ###
 
