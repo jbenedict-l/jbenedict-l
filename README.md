@@ -4,11 +4,11 @@
 
 ###
 
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHR2aTVtcnczc2F5NHBtMGZ6bjU2YjhzYnU3anNhOWV1eDk3eTNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IMyywb3t1gszXlCaPp/giphy.gif"  />
+<img align="left" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHR2aTVtcnczc2F5NHBtMGZ6bjU2YjhzYnU3anNhOWV1eDk3eTNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IMyywb3t1gszXlCaPp/giphy.gif"  />
 
 ###
 
-<div align="center" style="gap: 15;">
+<div align="center" style="gap: 30;">
   <a href="https://www.linkedin.com/in/john-benedict-listangco-6a3b003b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
